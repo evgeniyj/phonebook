@@ -11,6 +11,6 @@ Phone book linked to SQL DB.
 Get basic information by name, department or phonenumber.
 Support groups by department and detailed view in modal window.
 
-Required jquery-1.10.1.min.js.
+Requires jquery-1.10.1.min.js.
 
-Design based on 3d party PHP + Active Directory phonebook application, unfortunatelly, original link lost.
+Design based on 3d party PHP + Active Directory phonebook application, unfortunatelly, original link is lost.
